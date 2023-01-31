@@ -31,3 +31,8 @@ The following table contains a sample code execution sequence and the correspond
 | plant.treat(4);                             |                                    | Additional treatments with a potency <= 10 have no effect.
 | plant.treatmentsNeeded();                   | 0                                  | The additional treatment with a potency <= 10 had no effect.
 | plant.isDangerous();                        | false                              | The plant remains cured.
+
+
+Name: Camille
+
+Partner: None
